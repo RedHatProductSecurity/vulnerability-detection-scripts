@@ -1,0 +1,144 @@
+processor	: 0
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 1
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 2
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 3
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 4
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 5
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 6
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 7
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 8
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 9
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 10
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 11
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 12
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 13
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 14
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 15
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 16
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 17
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 18
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 19
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 20
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 21
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 22
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 23
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 24
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 25
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 26
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+processor	: 27
+cpu		: POWER7 (architected), altivec supported
+clock		: 3612.000000MHz
+revision	: 2.0 (pvr 004a 0200)
+
+timebase	: 512000000
+platform	: pSeries
+model		: IBM,8231-E2D
+machine		: CHRP IBM,8231-E2D
